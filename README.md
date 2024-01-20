@@ -86,8 +86,20 @@ export MLFLOW_TRACKING_PASSWORD=43e326c5c6d3abd9c92efe4a32481268fe97656b
 
 ```
 
+### Run app file
+```bash
+	python app.py
+```
+### In Browser
+#### for training
+```bash
+	localhost:8080/train
+```
 
-
+#### for Prediction
+```bash
+	localhost:8080/predict
+```
 # AWS-CICD-Deployment-with-Github-Actions
 
 ## 1. Login to AWS console.
@@ -157,10 +169,8 @@ export MLFLOW_TRACKING_PASSWORD=43e326c5c6d3abd9c92efe4a32481268fe97656b
 
     AWS_REGION = us-east-1
 
-    AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
-
-    ECR_REPOSITORY_NAME = simple-app
-
+    AWS_ECR_LOGIN_URI = demo>>  608672369826.dkr.ecr.ap-south-1.amazonaws.com
+    ECR_REPOSITORY_NAME = wine_repo
 
 
 
