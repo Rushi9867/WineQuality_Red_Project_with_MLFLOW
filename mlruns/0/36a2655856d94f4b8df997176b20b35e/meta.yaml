@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Programs/ML/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/36a2655856d94f4b8df997176b20b35e/artifacts
+end_time: 1705755327543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36a2655856d94f4b8df997176b20b35e
+run_name: sincere-smelt-452
+run_uuid: 36a2655856d94f4b8df997176b20b35e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705755323301
+status: 3
+tags: []
+user_id: Rushikesh

@@ -21,19 +21,26 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow
+https://github.com/Rushi9867/WineQuality_Red_Project_with_MLFLOW.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n mlproj python=3.8 -y
+conda create -n wenv python=3.8 -y
 ```
 
 ```bash
-conda activate mlproj
+conda activate wenv
+```
+### Create a vscode environment after opening the repository
+
+```bash
+	python -m venv wenv
 ```
 
-
+```bash
+	wenv\Scripts\activate
+```
 ### STEP 02- install the requirements
 ```bash
 pip install -r requirements.txt
@@ -63,20 +70,19 @@ open up you local host and port
 ### dagshub
 [dagshub](https://dagshub.com/)
 
-MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow.mlflow \
-MLFLOW_TRACKING_USERNAME=entbappy \
-MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0 \
+MLFLOW_TRACKING_URI=https://dagshub.com/Rushi9867/WineQuality_Red_Project_with_MLFLOW.mlflow
+MLFLOW_TRACKING_USERNAME=Rushi9867
+MLFLOW_TRACKING_PASSWORD=43e326c5c6d3abd9c92efe4a32481268fe97656b
 python script.py
-
 Run this to export as env variables:
 
 ```bash
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/Rushi9867/WineQuality_Red_Project_with_MLFLOW.mlflow
 
-export MLFLOW_TRACKING_USERNAME=entbappy 
+export MLFLOW_TRACKING_USERNAME=Rushi9867
 
-export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
+export MLFLOW_TRACKING_PASSWORD=43e326c5c6d3abd9c92efe4a32481268fe97656b
 
 ```
 

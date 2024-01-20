@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Programs/ML/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/a9b9add37bc4434bb88e21e61c29317b/artifacts
+end_time: 1705755793923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9b9add37bc4434bb88e21e61c29317b
+run_name: skillful-crab-960
+run_uuid: a9b9add37bc4434bb88e21e61c29317b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705755790631
+status: 3
+tags: []
+user_id: Rushikesh
