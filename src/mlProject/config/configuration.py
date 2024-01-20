@@ -88,7 +88,7 @@ class ConfigurationManager:
         return model_trainer_config
     
 
-
+  
     def get_model_evaluation_config(self) -> ModelEvaluationConfig:
         config = self.config.model_evaluation
         params = self.params.ElasticNet
