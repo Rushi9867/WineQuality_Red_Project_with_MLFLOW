@@ -1,5 +1,5 @@
 # End-to-end-Machine-Learning-Project-with-MLflow
-![Github logo](https://github.com/Rushi9867/WineQuality_Red_Project_with_MLFLOW/blob/main/research/wine.jpg)
+<img src="https://github.com/Rushi9867/WineQuality_Red_Project_with_MLFLOW/blob/main/research/wine.jpg" width="1000"/>
 
 ## Workflows
 
